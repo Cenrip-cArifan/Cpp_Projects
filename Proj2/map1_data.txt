@@ -1,0 +1,3 @@
+0|First Room|You are in a blank room with no exits|-1|-1|-1|-1
+
+
