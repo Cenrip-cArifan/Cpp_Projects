@@ -1,0 +1,9 @@
+Sofa 60 43 44 964.32 cloth 3
+Chair 44 32 22 1864.75 leather brown
+Chair 53 36 24 501.00 cloth gray
+Chair 39 37 33 1866.05 wood gray
+Chair 33 36 41 949.25 cloth white
+Sofa 108 31 33 3841.55 metal 6
+Sofa 101 45 38 5408.99 wood 6
+Chair 29 30 24 1047.98 wood blue
+Sofa 105 30 45 4443.44 leather 6
